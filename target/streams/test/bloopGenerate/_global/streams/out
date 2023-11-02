@@ -1,0 +1,4 @@
+[debug] [scala-repo-test] Classpath dependencies List()
+[debug] [scala-repo-test] Dependencies from configurations List(scala-repo)
+[debug] Bloop wrote the configuration of project 'scala-repo-test' to '/home/vadym/Desktop/scal/rock-the-jvm/scala-repo/.bloop/scala-repo-test.json'
+[success] Generated .bloop/scala-repo-test.json
